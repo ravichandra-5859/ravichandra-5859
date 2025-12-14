@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ravi Chandra
+# 👋 Hi, I’m Ravi Chandra Pathi
 
 Welcome to my GitHub profile!  
 I’m a **Student** passionate about technology, coding, and continuous learning.
