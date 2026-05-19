@@ -1,47 +1,62 @@
-# 👋 Hi, I’m Ravi Chandra Pathi
+# 👋 Hi, I'm Ravi Chandra Pathi
 
-Welcome to my GitHub profile!  
-I’m a **Student** passionate about technology, coding, and continuous learning.
+🚀 **Aspiring Full Stack Developer | React Learner | Python Enthusiast**
 
-## 🚀 Skills & Technologies
+I am passionate about **Web Development, UI/UX Design, and Building Real-World Projects**.
+Currently pursuing my journey as a **Python Full Stack Developer Intern**, where I am learning and building modern web applications.
 
-- **React**
-- **Python**
-- **Machine Learning**
+I enjoy creating **responsive websites**, improving frontend experiences, and continuously learning new technologies.
+
+## 💻 Skills & Technologies
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* React.js
+
+### Backend
+
+* Python
+
+### Other Skills
+
+* Responsive Web Design
+* UI/UX Design
+* Machine Learning (Basics)
+* Git & GitHub
+
+## 🚀 Current Focus
+
+* Learning **React.js**
+* Building modern responsive websites
+* Working on real-world internship projects
+* Improving frontend and UI/UX skills
 
 ## 🌟 Featured Projects
 
-- **Portfolio Website**: My personal portfolio built with React. [View here](https://ravichandra-5859.github.io/portfolio/)
-- **More Projects Coming Soon!**  
-  *(Want to know more? Check out my repositories or get in touch!)*
+### 🔹 Personal Portfolio Website
 
-## 📫 Connect with Me
+A responsive portfolio website showcasing my skills and projects.
 
-- [LinkedIn](https://www.linkedin.com/in/ravichandra-pathi-82562a25a/)  
-- [Twitter](https://x.com/Ravicha84695812)  
-- [Portfolio](https://ravichandra-5859.github.io/portfolio/)  
-- [Email](mailto:your.email@example.com)  
+🌐 Portfolio:
+[Portfolio Website](https://ravichandra-5859.github.io/ravi-chandra-portfolio/)
 
-## 🎉 Fun Fact
+### 🔹 More Projects Coming Soon
 
-I’m always eager to explore new tech, work on creative projects, and connect with like-minded people.  
-In my free time, I enjoy learning about AI, building cool web apps, and discovering new music!
+Currently building exciting projects and improving my development skills.
 
----
+## 📫 Connect With Me
 
-Thanks for stopping by! ⭐ Feel free to check out my projects or reach out for collaboration.## Hi there 👋
+* 💼 LinkedIn:
+  [LinkedIn Profile](https://www.linkedin.com/in/pathi-ravi-chandra-82562a25a/?skipRedirect=true)
 
-<!--
-**ravichandra-5859/ravichandra-5859** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🌐 Portfolio:
+  [Portfolio Website](https://ravichandra-5859.github.io/ravi-chandra-portfolio/)
 
-Here are some ideas to get you started:
+## 🎯 Career Goal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To become a skilled **Full Stack Developer** by building practical projects, improving problem-solving skills, and gaining real-world development experience.
+
+⭐ Thanks for visiting my GitHub profile!
